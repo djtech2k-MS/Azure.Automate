@@ -1,5 +1,6 @@
 This powershell and bicep code will help automate the connection to CISA's TALON.  
 
+You will need to call the powershell script with the correct parameter values.  The powershell code will then call the bicep code.
 
 Notes:  
 
