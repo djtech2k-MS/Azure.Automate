@@ -1,6 +1,8 @@
 This powershell and bicep code will help automate the connection to CISA's TALON.  
 
+
 Notes:  
+
 You must already have your certificate before using this code.
 
 The powershell script has help information so it can be viewed in your text editor or by using powershell help cmdlet Get-Help <scriptName>.
