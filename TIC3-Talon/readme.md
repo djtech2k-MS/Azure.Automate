@@ -1,4 +1,4 @@
-This powershell and bicep code will help automate the deployment of the resources need to connect to CISA's TALON.  
+This powershell and bicep code will help automate the deployment of the resources needed to connect to CISA's TALON.  
 
 You will need to call the powershell script with the correct parameter values.  The powershell code will then call the bicep code.
 
