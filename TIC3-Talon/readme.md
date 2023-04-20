@@ -12,4 +12,4 @@ Please note that this code does require specific powershell modules, Azure CLI, 
 
 
 Disclaimer:  
-* Microsoft provides this information to FCEB departments and agencies as part of a suggested configuration to facilitate participation in CISA’s CLAW and TALON capability. This suggested configuration is maintained by Microsoft and is subject to change.
+Microsoft provides this information to FCEB departments and agencies as part of a suggested configuration to facilitate participation in CISA’s CLAW and TALON capability. This suggested configuration is maintained by Microsoft and is subject to change.
